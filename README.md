@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://mrityunjay-portfolio.vercel.app/](https://mrityunjay-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [mrityunjay-portfolio.vercel.app/](https://mrityunjay-portfolio.vercel.app/)
 
 - 📫 How to reach me **mrityunjaysingh.off@gmail.com**
 
